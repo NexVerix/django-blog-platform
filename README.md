@@ -42,7 +42,7 @@ A modern, fully functional **Django blogging platform** with dynamic API integra
 
 ## 🎨 Screenshots
 
-> Replace these with actual screenshots from your project  
+> Screenshots of the projects 
 
 ![Home Page](screenshots/home.png)   
 ![Create Post](screenshots/create_post.png)  
